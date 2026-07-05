@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.1.1/camera-prep-v0.1.1-win64.zip",
-  "notes": "Merge pull request #23 from Milvoos/fix/report-db-dir\n\nfix(report): ReportStore створює теку БД (crash на чистій Windows) + v0.1.1 (IT-23)",
-  "published": "2026-07-05T14:00:56Z"
+  "version": "0.1.2",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.1.2/camera-prep-v0.1.2-win64.zip",
+  "notes": "Merge pull request #24 from Milvoos/fix/local-credentials\n\nfeat(settings): креди/IP локально, не в бандлі + Start-гард + v0.1.2 (IT-23)",
+  "published": "2026-07-05T14:41:00Z"
 }
