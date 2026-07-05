@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "url": "",
-  "notes": "Канал ще без релізів.",
-  "published": "1970-01-01T00:00:00Z"
+  "version": "0.1.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.1.0/camera-prep-v0.1.0-win64.zip",
+  "notes": "Merge pull request #22 from Milvoos/fix/py-utf8\n\nci(pkg): PYTHONUTF8=1 — кириличні print у Python на Windows (IT-23)",
+  "published": "2026-07-05T13:28:28Z"
 }
