@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.1.0/camera-prep-v0.1.0-win64.zip",
-  "notes": "Merge pull request #22 from Milvoos/fix/py-utf8\n\nci(pkg): PYTHONUTF8=1 — кириличні print у Python на Windows (IT-23)",
-  "published": "2026-07-05T13:28:28Z"
+  "version": "0.1.1",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.1.1/camera-prep-v0.1.1-win64.zip",
+  "notes": "Merge pull request #23 from Milvoos/fix/report-db-dir\n\nfix(report): ReportStore створює теку БД (crash на чистій Windows) + v0.1.1 (IT-23)",
+  "published": "2026-07-05T14:00:56Z"
 }
