@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.3.1/camera-prep-v0.3.1-win64.zip",
-  "notes": "Merge pull request #33 from Milvoos/chore/bump-0.3.1\n\nchore: bump __version__ → 0.3.1",
-  "published": "2026-07-06T18:08:33Z"
+  "version": "0.3.2",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.3.2/camera-prep-v0.3.2-win64.zip",
+  "notes": "Merge pull request #36 from Milvoos/chore/bump-0.3.2\n\nchore: bump __version__ → 0.3.2",
+  "published": "2026-07-06T19:57:00Z"
 }
