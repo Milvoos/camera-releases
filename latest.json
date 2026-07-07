@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.3.4/camera-prep-v0.3.4-win64.zip",
-  "notes": "Merge pull request #39 from Milvoos/fix/firmware-upgrade-rpc2\n\nfix: залив прошивки через RPC2 /RPC2_Upgrade + фікс скролу налаштувань (v0.3.4)",
-  "published": "2026-07-07T09:48:19Z"
+  "version": "0.3.5",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.3.5/camera-prep-v0.3.5-win64.zip",
+  "notes": "Merge pull request #40 from Milvoos/fix/factory-reset-retry-after-firmware\n\nfix: Windows — ретрай «Скидання до заводських» після прошивки + логи у файл (v0.3.5)",
+  "published": "2026-07-07T10:31:10Z"
 }
