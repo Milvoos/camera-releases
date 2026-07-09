@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.0/camera-prep-v0.4.0-win64.zip",
-  "notes": "Merge pull request #44 from Milvoos/fix/it-14-set-device-oscillation\n\nfix: ідемпотентний set_device — discovery-рефреш не збиває осциляцію (IT-14, Codex P2)",
-  "published": "2026-07-09T09:38:57Z"
+  "version": "0.4.1",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.1/camera-prep-v0.4.1-win64.zip",
+  "notes": "Merge pull request #45 from Milvoos/fix/set-ntp-transient-retry\n\nfix: провіжинінгові фікси (час/ПК, NTP-ретрай, discovery-resume, reconnect) — v0.4.1",
+  "published": "2026-07-09T12:18:01Z"
 }
