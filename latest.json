@@ -1,6 +1,6 @@
 {
-  "version": "0.3.7",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.3.7/camera-prep-v0.3.7-win64.zip",
-  "notes": "Merge pull request #42 from Milvoos/feature/it-21-camera-details\n\nfeat: деталі камери при підключенні — IP/прошивка/профіль (IT-21, v0.3.7)",
-  "published": "2026-07-08T05:44:22Z"
+  "version": "0.4.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.0/camera-prep-v0.4.0-win64.zip",
+  "notes": "Merge pull request #44 from Milvoos/fix/it-14-set-device-oscillation\n\nfix: ідемпотентний set_device — discovery-рефреш не збиває осциляцію (IT-14, Codex P2)",
+  "published": "2026-07-09T09:38:57Z"
 }
