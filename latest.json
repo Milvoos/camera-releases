@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.2/camera-prep-v0.4.2-win64.zip",
-  "notes": "Merge pull request #46 from Milvoos/it-24-calibration-fixes\n\nIT-24: правки юстировки — manual-фокус (Mode=4), тип зума, повзунки, осциляція зумом",
-  "published": "2026-07-10T10:43:40Z"
+  "version": "0.4.3",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.3/camera-prep-v0.4.3-win64.zip",
+  "notes": "chore: bump __version__ → 0.4.3 (фікс AutoFocusTrace у ручному фокусі)\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>",
+  "published": "2026-07-10T12:43:55Z"
 }
