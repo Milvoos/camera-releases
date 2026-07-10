@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.1/camera-prep-v0.4.1-win64.zip",
-  "notes": "Merge pull request #45 from Milvoos/fix/set-ntp-transient-retry\n\nfix: провіжинінгові фікси (час/ПК, NTP-ретрай, discovery-resume, reconnect) — v0.4.1",
-  "published": "2026-07-09T12:18:01Z"
+  "version": "0.4.2",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.2/camera-prep-v0.4.2-win64.zip",
+  "notes": "Merge pull request #46 from Milvoos/it-24-calibration-fixes\n\nIT-24: правки юстировки — manual-фокус (Mode=4), тип зума, повзунки, осциляція зумом",
+  "published": "2026-07-10T10:43:40Z"
 }
