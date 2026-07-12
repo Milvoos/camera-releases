@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.4.3/camera-prep-v0.4.3-win64.zip",
-  "notes": "chore: bump __version__ → 0.4.3 (фікс AutoFocusTrace у ручному фокусі)\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>",
-  "published": "2026-07-10T12:43:55Z"
+  "version": "0.5.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.5.0/camera-prep-v0.5.0-win64.zip",
+  "notes": "fix(gui): guard import mpv — CI-збір без libmpv-2.dll (реліз v0.5.0 падав)\n\ntest_rtsp_zoom імпортує region_zoom_state на рівні модуля, що тягнуло\nimport mpv при зборі; на CI-Windows libmpv-2.dll не на %PATH% → OSError\n(importorskip ловить лише ImportError) ламав увесь прогін. Тепер import mpv\nу rtsp_viewer.py guarded (mpv=None): чиста region_zoom_state імпортовна без\nlibmpv, initializeGL логує й виходить, якщо mpv немає. Прибрано importorskip.\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>",
+  "published": "2026-07-12T11:41:37Z"
 }
