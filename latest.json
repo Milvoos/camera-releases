@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.5.1/camera-prep-v0.5.1-win64.zip",
-  "notes": "chore: bump __version__ → 0.5.1 (фікс прев'ю основного 4K-потоку, IT-29)\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>",
-  "published": "2026-07-13T14:22:59Z"
+  "version": "0.6.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.6.0/camera-prep-v0.6.0-win64.zip",
+  "notes": "chore: bump __version__ → 0.6.0 (per-leg фокус IT-31, dwell IT-28)\n\nCo-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>",
+  "published": "2026-07-14T03:46:11Z"
 }
