@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.6.1/camera-prep-v0.6.1-win64.zip",
-  "notes": "chore: bump __version__ → 0.6.1 (одна команда зум+фокус, VISCA за замовчуванням)\n\nCo-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>",
-  "published": "2026-07-14T07:38:35Z"
+  "version": "0.7.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.7.0/camera-prep-v0.7.0-win64.zip",
+  "notes": "Merge pull request #65 from Milvoos/chore/release-desktop-v0.7.0\n\nchore(release): desktop v0.7.0 — авторизація + outbox (IT-35)",
+  "published": "2026-07-16T15:16:09Z"
 }
