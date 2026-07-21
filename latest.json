@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.8.3/camera-prep-v0.8.3-win64.zip",
-  "notes": "chore(release): desktop v0.8.3 — оживлення прев'ю після формату карти (PR #76)\n\nCo-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>",
-  "published": "2026-07-20T14:06:50Z"
+  "version": "0.9.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.9.0/camera-prep-v0.9.0-win64.zip",
+  "notes": "Merge pull request #79 from Milvoos/feat/it-37-cv-alignment\n\nfeat: CV-асистент юстировки матриці (IT-37)",
+  "published": "2026-07-21T13:15:53Z"
 }
