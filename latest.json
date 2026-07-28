@@ -1,6 +1,6 @@
 {
-  "version": "0.12.0",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.12.0/camera-prep-v0.12.0-win64.zip",
-  "notes": "chore(release): v0.12.0 — жива підстройка юстировки (IT-52)\n\nCo-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>",
-  "published": "2026-07-28T10:28:53Z"
+  "version": "0.13.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.13.0/camera-prep-v0.13.0-win64.zip",
+  "notes": "chore(release): v0.13.0 — юстировка більше не вигадує числа (IT-37/IT-52)\n\nCo-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>",
+  "published": "2026-07-28T19:01:15Z"
 }
