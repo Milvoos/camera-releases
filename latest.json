@@ -1,6 +1,6 @@
 {
-  "version": "0.11.0",
-  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.11.0/camera-prep-v0.11.0-win64.zip",
-  "notes": "chore(release): server v0.5.0 + desktop v0.11.0 (IT-44)\n\nСтруктурне відхилення на вимір (Flyway V4): server pom 0.4.0→0.5.0,\ndesktop __version__ 0.10.0→0.11.0.\n\nCo-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>",
-  "published": "2026-07-22T10:03:03Z"
+  "version": "0.12.0",
+  "url": "https://github.com/Milvoos/camera-releases/releases/download/v0.12.0/camera-prep-v0.12.0-win64.zip",
+  "notes": "chore(release): v0.12.0 — жива підстройка юстировки (IT-52)\n\nCo-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>",
+  "published": "2026-07-28T10:28:53Z"
 }
